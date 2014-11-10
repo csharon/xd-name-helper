@@ -1,0 +1,23 @@
+{
+  "name": "xd-name-helper",
+  "version": "0.0.1",
+  "description": "A set of string manipulation utilites for nameing things.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:csharon/xd-name-helper.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chris Sharon <chris@xdoji.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "mout": "^0.10.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
