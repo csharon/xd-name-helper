@@ -1,7 +1,7 @@
 {
   "name": "xd-name-helper",
   "version": "0.1.0",
-  "description": "A set of string manipulation utilites for nameing things.",
+  "description": "A set of string manipulation utilities for naming things.",
   "repository": {
     "type": "git",
     "url": "git@github.com:csharon/xd-name-helper.git"
