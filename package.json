@@ -13,7 +13,7 @@
   "author": "Chris Sharon <chris@xdoji.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "mout": "^0.10.0"
   },
   "devDependencies": {
